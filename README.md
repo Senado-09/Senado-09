@@ -1,7 +1,7 @@
 Web Developer | Technical Writer
 
 As a passionate Full Stack Web Developer specialized in Front-end, I specialize in crafting intuitive, responsive, and visually appealing websites that enhance user experiences. 
-With a deep understanding of HTML, CSS, JavaScript, and popular frameworks like React Js, I bring designs to life, ensuring seamless performance across all devices.
+With a deep understanding of HTML, CSS, JavaScript, and popular frameworks like React Js, Django. I bring designs to life, ensuring seamless performance across all devices.
 
 My technical expertise is complemented by my skills as a Technical Writer. I excel in translating complex technical concepts into clear, concise, and user-friendly documentation. 
 Whether it’s creating tutorials, user guides, or API documentation, I aim to bridge the gap between developers and users, enabling smoother adoption and integration of technologies.
