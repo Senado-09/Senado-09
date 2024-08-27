@@ -1,4 +1,4 @@
-Software Engineer | Technical Writer
+Software Engineer | Full Stack Web Developer | Technical Writer
 
 As a passionate Full Stack Developer specialized in Front-end, I specialize in crafting intuitive, responsive, and visually appealing websites that enhance user experiences. 
 With a deep understanding of HTML, CSS, JavaScript, and popular frameworks like React Js, Django. I bring designs to life, ensuring seamless performance across all devices.
